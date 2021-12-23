@@ -1,12 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Wonuk-Hwang&fontSize=70&animation=twinkling) -->
-[![HwangWonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwonuk&count_private=true&show_icons=true&theme=dark)](https://github.com/hwangwonuk/github-readme-stats)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
-
-<p align="center>
-[![HwangWonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwonuk&count_private=true&show_icons=true&theme=dark)](https://github.com/hwangwonuk/github-readme-stats)]
-</p>
           
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -29,6 +25,9 @@
   <a href="https://wonuk.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://wonuk.tistory.com/"/></a>&nbsp
   </p>
 </p>
+
+[![HwangWonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwonuk&count_private=true&show_icons=true&theme=dark)](https://github.com/hwangwonuk/github-readme-stats)
+
 <!---
 Hwangwonuk/Hwangwonuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
