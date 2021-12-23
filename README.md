@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Wonuk-Hwang&fontSize=70&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Wonuk-Hwang&fontSize=70&animation=twinkling) -->
+[![HwangWonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwonuk&count_private=true&show_icons=true&theme=dark)](https://github.com/hwangwonuk/github-readme-stats)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
+<p align="center>
+[![HwangWonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwonuk&count_private=true&show_icons=true&theme=dark)](https://github.com/hwangwonuk/github-readme-stats)]
+</p>
+          
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
