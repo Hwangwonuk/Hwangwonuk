@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/MyBatis-1572B6?style=flat-square&logo=mybatis&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redis-DB3552?style=flat-square&logo=redis&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nginx-11B48A?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jsp-11B48A?style=flat-square&logo=JSP&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/html-333664?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
