@@ -14,16 +14,14 @@
   <br>
   <img src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Nginx-11B48A?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jsp-11B48A?style=flat-square&logo=JSP&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/html-333664?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jquery-333664?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon S3-ffb13b?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Eclipse IDE-005571?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vitess-005571?style=flat-square&logo=Vitess&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/IntelliJ IDEA-005571?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+ 
   <h3 align="center"> ✨ Tech Blog ✨</h3>
   <p align="center">
   <a href="https://wonuk.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://wonuk.tistory.com/"/></a>&nbsp
