@@ -28,7 +28,7 @@
   </p>
 </p>
 
-[![HwangWonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwonuk&count_private=true&show_icons=true&theme=dark)](https://github.com/hwangwonuk/github-readme-stats)
+[![Hwangwonuk's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Hwangwonuk&show_icons=true&theme=dark&count_private=true)](https://github.com/Hwangwonuk/github-readme-stats)
 
 </div>
 
